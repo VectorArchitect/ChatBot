@@ -1,4 +1,6 @@
 import pyautogui
+import pyperclip
+import time
 
 a=pyautogui.position()
 print(a)
@@ -9,9 +11,6 @@ print(a)
 # full screen Point(x=1513, y=49)
 #Point(x=369, y=276) for myself chat
 # select from Point(x=687, y=135) to Point(x=1887, y=916)
-
-import pyperclip
-import time
 
 # Safety pause - move mouse to corner to abort
 pyautogui.PAUSE = 0.5
