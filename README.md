@@ -4,4 +4,4 @@ This is an auto replying chatbot, that selects and analyses the previous chats a
 ## Librarie & Modules
 > pyautogui: For automating mouse and keyboard interactions.  
 > time: For adding delays between operations.  
-> pyperclip: For clipboard operations. 
+> pyperclip: For clipboard operations.
